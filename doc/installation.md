@@ -12,7 +12,7 @@
 To clone the repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/<your-username>/YogaPoseClassifier.git
+git clone https://github.com/Hariesh-Kai/YogaPoseClassifier.git
 cd YogaPoseClassifier
 ```
 
